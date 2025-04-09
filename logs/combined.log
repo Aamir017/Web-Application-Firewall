@@ -1,0 +1,12 @@
+{"level":"info","message":"WAF running on port 3000","service":"waf","timestamp":"2025-04-08 23:44:43"}
+{"level":"info","message":"Incoming request from ::1 to /?ide_webview_request_time=1744136087171","service":"waf","timestamp":"2025-04-08 23:44:47"}
+{"level":"warn","message":"Access control violation: guest accessing /?ide_webview_request_time=1744136087171","service":"waf","timestamp":"2025-04-08 23:44:47"}
+{"level":"warn","message":"Security violation: Access Control - User with role 'guest' does not have access to this resource","service":"waf","timestamp":"2025-04-08 23:44:47"}
+{"level":"info","message":"WAF running on port 3000","service":"waf","timestamp":"2025-04-08 23:46:11"}
+{"level":"info","message":"Incoming request from ::1 to /?ide_webview_request_time=1744136176212","service":"waf","timestamp":"2025-04-08 23:46:16"}
+{"level":"warn","message":"Access control violation: guest accessing /?ide_webview_request_time=1744136176212","service":"waf","timestamp":"2025-04-08 23:46:16"}
+{"level":"warn","message":"Security violation: Access Control - User with role 'guest' does not have access to this resource","service":"waf","timestamp":"2025-04-08 23:46:16"}
+{"level":"info","message":"WAF running on port 3001","service":"waf","timestamp":"2025-04-08 23:48:13"}
+{"level":"info","message":"Incoming request from ::1 to /?ide_webview_request_time=1744136298863","service":"waf","timestamp":"2025-04-08 23:48:18"}
+{"level":"warn","message":"Access control violation: guest accessing /?ide_webview_request_time=1744136298863","service":"waf","timestamp":"2025-04-08 23:48:18"}
+{"level":"warn","message":"Security violation: Access Control - User with role 'guest' does not have access to this resource","service":"waf","timestamp":"2025-04-08 23:48:18"}
